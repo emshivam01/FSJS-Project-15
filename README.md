@@ -1,11 +1,9 @@
 
 # Visual designer's landing page
 
-**Name : Shivam Sharma** 
+**Name :**  Shivam Sharma
 
-**Time taken :  8-9 hrs** 
-
-This is the project no. 15 of **FSJS** Bootcamp and it is landing page of visual designer.
+**Time taken :**  8-9 hrs
 
 **Key learning :** 
 
